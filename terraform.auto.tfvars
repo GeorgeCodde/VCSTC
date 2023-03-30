@@ -19,8 +19,9 @@ instance_count = {
   PrimeraDemo = 2
   Development = 2
   UAT         = 4
-  Production  = 6
+  Production  = 8
 }
+
 
 instance_type = {
   PrimeraDemo = "t2.micro"
